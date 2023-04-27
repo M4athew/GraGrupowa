@@ -1,0 +1,1339 @@
+﻿Log file open, 03/08/23 15:40:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.211904
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=VerifiedAccount -epicuserid=2db572e6ce1942afb123238f0c1fdb4d -epiclocale=pl -epicsandboxid=ue
+LogInit: Base Directory: V:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/MyProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2023.03.08-14.40.01:521][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.08-14.40.01:521][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.08-14.40.01:522][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.08-14.40.01:522][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.08-14.40.01:522][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.08-14.40.01:522][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.08-14.40.01:522][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.08-14.40.01:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2023.03.08-14.40.01:522][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2023.03.08-14.40.01:547][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.08-14.40.01:547][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.08-14.40.01:548][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.08-14.40.01:548][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.08-14.40.01:548][  0]LogHAL: Display: Platform has ~ 16 GB [17132400640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.08-14.40.01:548][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.08-14.40.01:548][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.08-14.40.01:548][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.08-14.40.01:549][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal/MyProject/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.08-14.40.01:550][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/MyProject/Saved/Config/Windows/Engine.ini]
+[2023.03.08-14.40.01:550][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/MyProject/Saved/Config/Windows/Editor.ini]
+[2023.03.08-14.40.01:550][  0]LogInit: Computer: DESKTOP-911BI4P
+[2023.03.08-14.40.01:550][  0]LogInit: User: Mateusz
+[2023.03.08-14.40.01:550][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.03.08-14.40.01:550][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.08-14.40.01:551][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2023.03.08-14.40.01:551][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.08-14.40.01:551][  0]LogMemory: Process Physical Memory: 152.71 MB used, 156.29 MB peak
+[2023.03.08-14.40.01:551][  0]LogMemory: Process Virtual Memory: 131.83 MB used, 131.83 MB peak
+[2023.03.08-14.40.01:551][  0]LogMemory: Physical Memory: 8273.53 MB used,  8065.20 MB free, 16338.73 MB total
+[2023.03.08-14.40.01:551][  0]LogMemory: Virtual Memory: 134208304.00 MB used,  9426.15 MB free, 134217728.00 MB total
+[2023.03.08-14.40.01:554][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.08-14.40.01:590][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.08-14.40.01:590][  0]LogInit: Using OS detected language (pl-PL).
+[2023.03.08-14.40.01:590][  0]LogInit: Using OS detected locale (pl-PL).
+[2023.03.08-14.40.01:592][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2023.03.08-14.40.01:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2023.03.08-14.40.01:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2023.03.08-14.40.01:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2023.03.08-14.40.01:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2023.03.08-14.40.01:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2023.03.08-14.40.01:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2023.03.08-14.40.01:592][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2023.03.08-14.40.01:593][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.08-14.40.01:601][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.08-14.40.01:609][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.08-14.40.01:609][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.08-14.40.01:706][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.08-14.40.01:757][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.03.08-14.40.01:757][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.08-14.40.01:757][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.08-14.40.01:757][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.08-14.40.01:851][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2023.03.08-14.40.01:851][  0]LogD3D11RHI:       4017/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:     DeviceId    : 1c82
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:     SubSysId    : 37331458
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:     DedicatedVideoMemory : 4212129792 bytes
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:     SharedSystemMemory : 8566200320 bytes
+[2023.03.08-14.40.01:853][  0]LogD3D11RHI:     AdapterLuid : 0 48232
+[2023.03.08-14.40.01:858][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.08-14.40.01:858][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.08-14.40.01:858][  0]LogWindows: EnumDisplayDevices:
+[2023.03.08-14.40.01:858][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2023.03.08-14.40.01:858][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2023.03.08-14.40.01:858][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2023.03.08-14.40.01:858][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2023.03.08-14.40.01:859][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:      Driver Date: 12-5-2022
+[2023.03.08-14.40.01:859][  0]LogRHI: Texture pool is 2811 MB (70% of 4017 MB)
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:     DeviceId    : 1c82
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:     SubSysId    : 37331458
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:     DedicatedVideoMemory : 4212129792 bytes
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:     SharedSystemMemory : 8566200320 bytes
+[2023.03.08-14.40.01:859][  0]LogD3D11RHI:     AdapterLuid : 0 48232
+[2023.03.08-14.40.01:916][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.08-14.40.01:916][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.08-14.40.01:916][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.08-14.40.01:930][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.03.08-14.40.01:956][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.03.08-14.40.02:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.08-14.40.02:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.08-14.40.02:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.08-14.40.02:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.08-14.40.02:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.08-14.40.02:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.08-14.40.02:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.08-14.40.02:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.08-14.40.02:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.08-14.40.02:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.08-14.40.02:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.08-14.40.02:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.08-14.40.02:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.08-14.40.02:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.08-14.40.02:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.08-14.40.02:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.08-14.40.02:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.08-14.40.02:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.08-14.40.02:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.08-14.40.02:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.08-14.40.02:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.08-14.40.02:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.08-14.40.02:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.08-14.40.02:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.08-14.40.02:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.08-14.40.02:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.08-14.40.02:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.08-14.40.02:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.08-14.40.02:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.08-14.40.02:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.08-14.40.02:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.08-14.40.02:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.08-14.40.02:362][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.08-14.40.02:367][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.08-14.40.02:389][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.08-14.40.02:413][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.08-14.40.02:414][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (D:/Unreal/MyProject/Intermediate/Shaders/WorkingDirectory/12736/).
+[2023.03.08-14.40.02:414][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mateusz/AppData/Local/Temp/UnrealShaderWorkingDir/E49D9C6C48E2BB26A00F21A85C15AF80/'.
+[2023.03.08-14.40.02:414][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.08-14.40.02:414][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.08-14.40.02:414][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.08-14.40.03:046][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.08-14.40.03:124][  0]LogDerivedDataCache: Loaded boot cache 0.08s 94MB C:/Users/Mateusz/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.08-14.40.03:124][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mateusz/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.08-14.40.03:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.08-14.40.03:124][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.08-14.40.03:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.08-14.40.03:124][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.03.08-14.40.03:139][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.08-14.40.03:139][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.08-14.40.03:139][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.03.08-14.40.03:146][  0]LogDerivedDataCache: Speed tests for C:/Users/Mateusz/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.08-14.40.03:146][  0]LogDerivedDataCache: Display: Performance to C:/Users/Mateusz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=325.26MBs, RandomWriteSpeed=236.41MBs. Assigned SpeedClass 'Local'
+[2023.03.08-14.40.03:147][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mateusz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.08-14.40.03:147][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.08-14.40.03:147][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.08-14.40.03:185][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.08-14.40.03:186][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.08-14.40.03:207][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2023.03.08-14.40.03:413][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.08-14.40.03:413][  0]LogInit: Active device profile: [000001CCA5BEBE00][000001CCA4686B80 49] Windows
+[2023.03.08-14.40.03:413][  0]LogInit: Profiles: [000001CCA5BEBE00][000001CCA4686B80 49] Windows, [000001CCA5BF7D00][000001CCA76FCD00 49] WindowsNoEditor, [000001CCA5BE8600][000001CCA6786E80 49] WindowsServer, [000001CCA5BF4600][000001CCA678B000 49] WindowsClient, [000001CCA5BEBC00][000001CCA678F180 49] IOS, [000001CCA5BF4100][000001CCA6793300 49] iPadAir, [000001CCA5BE8500][000001CCA6797480 49] iPadAir2, [000001CCA5B51100][000001CCA68A5740 49] IPadPro, [000001CCA5B51200][000001CCA689B780 49] iPadAir3, [000001CCA5BEBA00][000001CCA68AF900 49] iPadAir4, [000001CCA5B50800][000001CCA68B3A80 49] iPadMini2, [000001CCA5BE8400][000001CCA68B7C00 49] iPadMini3, [000001CCA5B51700][000001CCA68BA200 49] iPadMini4, [000001CCA5BEB900][000001CCA468A340 49] iPadMini5, [000001CCA5BF5200][000001CCA68C2580 49] iPhone6, [000001CCA5BF5300][000001CCA68BE5C0 49] iPodTouch6, [000001CCA5B53A00][000001CCA68CE840 49] iPhone7, [000001CCA5B53900][000001CCA68C6880 49] iPodTouch7, [000001CCA5BF4A00][000001CCA68D2A00 49] iPhone5S, [000001CCA5B50E00][000001CCA68D6B80 49] iPhone6Plus, [000001CCA5BF5800][000001CCA68DAD00 49] iPhone6S, [000001CCA5B53600][000001CCA68DEE80 49] iPhone6SPlus, [000001CCA5BF4D00][000001CCA68E3000 49] iPhone7Plus, [000001CCA5B50900][000001CCA68E7180 49] iPhoneSE, [000001CCA5BF7300][000001CCA68EB300 49] iPhone8, [000001CCA5B53200][000001CCA68EF480 49] iPhone8Plus, [000001CCA5BF4200][000001CCA68F3600 49] iPhoneX, [000001CCA5B50100][000001CCA68F7780 49] iPhoneXS, [000001CCA5BF5E00][000001CCA68FB900 49] iPhoneXSMax, [000001CCA5B52F00][000001CCA68FFA80 49] iPhoneXR, [000001CCA5BF7700][000001CCA6903C00 49] iPhone11, [000001CCA5B51600][000001CCA6906200 49] iPhone11Pro, [000001CCA5BF6200][000001CCA690A380 49] iPhone11ProMax, [000001CCA5B52B00][000001CCA690E500 49] iPhoneSE2, [000001CCA5BF7600][000001CCA68CA640 49] iPhone12Mini, [000001CCA5B51B00][000001CCA6912780 49] iPhone12, [000001CCA5BF4500][000001CCA6FB48C0 49] iPhone12Pro, [000001CCA5B52800][000001CCA6FBCA40 49] iPhone12ProMax, [000001CCA5BF7000][000001CCA6FC0BC0 49] iPadPro105, [000001CCA5B53400][000001CCA6FC4D40 49] iPadPro129, [000001CCA5BF6700][000001CCA6FC8EC0 49] iPadPro97, [000001CCA5B50400][000001CCA6FCD040 49] iPadPro2_129, [000001CCA5BF5700][000001CCA6FD11C0 49] iPad5, [000001CCA5B52000][000001CCA6FD5340 49] iPad6, [000001CCA5BF4700][000001CCA6FD94C0 49] iPad7, [000001CCA5B52700][000001CCA6FDD640 49] iPad8, [000001CCA5BF6000][000001CCA6FE17C0 49] iPadPro11, [000001CCA5B52D00][000001CCA6FE5940 49] iPadPro2_11, [000001CCA5BF7A00][000001CCA6FE9AC0 49] iPadPro3_129, [000001CCA5B52400][000001CCA6FEC0C0 49] iPadPro4_129, [000001CCA5BF6D00][000001CCA6FF0240 49] AppleTV, [000001CCA5B50F00][000001CCA6FF43C0 49] AppleTV4K, [000001CCA5BF6B00][000001CCA6FF8540 49] TVOS, [000001CCA5B51C00][000001CCA6FFC6C0 49] Mac, [000001CCA5BF6100][000001CCA6FB8800 49] MacClient, [000001CCA5B53500][000001CCA7000940 49] MacNoEditor, [000001CCA5BF4900][000001CCA7004A80 49] MacServer, [000001CCA5B50C00][000001CCA7008BC0 49] Linux, [000001CCA5BF5400][000001CCA7010D40 49] LinuxAArch64, [000001CCA5B51D00][000001CCA7014EC0 49] LinuxNoEditor, [000001CCA5BF6A00][000001CCA7019040 49] LinuxAArch64NoEditor, [000001CCA5B50600][000001CCA701D1C0 49] LinuxClient, [000001CCA5BF7100][000001CCA7021340 49] LinuxAArch64Client, [000001CCA5B53E00][000001CCA70254C0 49] LinuxServer, [000001CCA5BF6600][000001CCA7029640 49] LinuxAArch64Server, [000001CCA5B52600][000001CCA702D7C0 49] Android, [000001CCA5BF6E00][000001CCA7031940 49] Android_Low, [000001CCA5B52C00][000001CCA7035AC0 49] Android_Mid, [000001CCA5BF6C00][000001CCA70380C0 49] Android_High, [000001CCA5B52E00][000001CCA703C240 49] Android_Default, [000001CCA5BE8700][000001CCA70403C0 49] Android_Adreno4xx, [000001CCA5E09400][000001CCA7044540 49] Android_Adreno5xx_Low, [000001CCA5BE9200][000001CCA70486C0 49] Android_Adreno5xx, [000001CCA5E0A700][000001CCA704C840 49] Android_Adreno6xx, [000001CCA5BE9800][000001CCA700C980 49] Android_Adreno6xx_Vulkan, [000001CCA5E08100][000001CCA7050AC0 49] Android_Mali_T6xx, [000001CCA5BEA900][000001CCA7054C00 49] Android_Mali_T7xx, [000001CCA5E08800][000001CCA7058D40 49] Android_Mali_T8xx, [000001CCA5BE9900][000001CCA7060EC0 49] Android_Mali_G71, [000001CCA5E0A000][000001CCA7065040 49] Android_Mali_G72, [000001CCA5BEA200][000001CCA70691C0 49] Android_Mali_G72_Vulkan, [000001CCA5E08200][000001CCA706D340 49] Android_Mali_G76, [000001CCA5BE8900][000001CCA70714C0 49] Android_Mali_G76_Vulkan, [000001CCA5E0A200][000001CCA7075640 49] Android_Mali_G77, [000001CCA5BEB100][000001CCA70797C0 49] Android_Mali_G77_Vulkan, [000001CCA5E0A300][000001CCA707D940 49] Android_Mali_G78, [000001CCA5BEB000][000001CCA7081AC0 49] Android_Mali_G78_Vulkan, [000001CCA5E08C00][000001CCA70840C0 49] Android_Mali_G710, [000001CCA5BEAD00][000001CCA7088240 49] Android_Mali_G710_Vulkan, [000001CCA5E09900][000001CCA708C3C0 49] Android_Vulkan_SM5, [000001CCA5BEA400][000001CCA7090540 49] Android_PowerVR_G6xxx, [000001CCA5E0AC00][000001CCA70946C0 49] Android_PowerVR_GT7xxx, [000001CCA5B50500][000001CCA7098840 49] Android_PowerVR_GE8xxx, [000001CCA5E09B00][000001CCA709C9C0 49] Android_PowerVR_GM9xxx, [000001CCA5B52300][000001CCA70A0B40 49] Android_PowerVR_GM9xxx_Vulkan, [000001CCA5E09A00][000001CCA705CC80 49] Android_TegraK1, [000001CCA5B50300][000001CCA70A4DC0 49] Android_Unknown_Vulkan, [000001CCA5E09700][000001CCA70A8F00 49] Lumin, [000001CCA5B53B00][000001CCA70B1080 49] Lumin_Desktop, [000001CCA5E09500][000001CCA70B5200 49] HoloLens, 
+[2023.03.08-14.40.03:520][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.08-14.40.03:520][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.08-14.40.03:520][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.08-14.40.03:520][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.08-14.40.03:520][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.08-14.40.03:532][  0]LogNetVersion: MyProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3629800737)
+[2023.03.08-14.40.03:841][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.08-14.40.03:895][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.08-14.40.03:901][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.03.08-14.40.03:901][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.03.08-14.40.03:901][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.08-14.40.04:107][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0218B0804934ECD3B856528A44BB3BFC | Instance: 04DB91644980900771761F987C092C90 (DESKTOP-911BI4P-12736).
+[2023.03.08-14.40.04:134][  0]LogPython: Using Python 3.7.7
+[2023.03.08-14.40.04:805][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.08-14.40.04:839][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.08-14.40.04:966][  0]SourceControl: Source control is disabled
+[2023.03.08-14.40.04:966][  0]SourceControl: Source control is disabled
+[2023.03.08-14.40.04:969][  0]SourceControl: Source control is disabled
+[2023.03.08-14.40.04:971][  0]SourceControl: Source control is disabled
+[2023.03.08-14.40.04:976][  0]SourceControl: Source control is disabled
+[2023.03.08-14.40.04:981][  0]LogUProjectInfo: Found projects:
+[2023.03.08-14.40.04:984][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.08-14.40.04:984][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.08-14.40.04:984][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.08-14.40.05:121][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.08-14.40.05:154][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.08-14.40.05:168][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.08-14.40.05:168][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.08-14.40.05:271][  0]LogCollectionManager: Loaded 0 collections in 0.000585 seconds
+[2023.03.08-14.40.05:290][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/Saved/Collections/' took 0.00s
+[2023.03.08-14.40.05:290][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/Content/Developers/Mateusz/Collections/' took 0.00s
+[2023.03.08-14.40.05:290][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/Content/Collections/' took 0.00s
+[2023.03.08-14.40.05:290][  0]LogOcInput: OculusInput pre-init called
+[2023.03.08-14.40.05:481][  0]LogEngine: Initializing Engine...
+[2023.03.08-14.40.05:534][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.03.08-14.40.05:588][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2023.03.08-14.40.05:589][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2023.03.08-14.40.05:589][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2023.03.08-14.40.05:617][  0]LogHMD: Failed to create an OpenXR instance, result is XR_ERROR_RUNTIME_FAILURE. Please check if you have an OpenXR runtime installed. The following extensions were enabled:
+[2023.03.08-14.40.05:617][  0]LogHMD: - XR_KHR_D3D11_enable
+[2023.03.08-14.40.05:617][  0]LogHMD: - XR_KHR_D3D12_enable
+[2023.03.08-14.40.05:617][  0]LogHMD: - XR_KHR_opengl_enable
+[2023.03.08-14.40.05:617][  0]LogHMD: - XR_KHR_vulkan_enable
+[2023.03.08-14.40.05:617][  0]LogHMD: - XR_KHR_composition_layer_depth
+[2023.03.08-14.40.05:617][  0]LogHMD: - XR_KHR_visibility_mask
+[2023.03.08-14.40.05:617][  0]LogHMD: - XR_EXT_hand_tracking
+[2023.03.08-14.40.05:617][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.03.08-14.40.05:618][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.08-14.40.05:713][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.08-14.40.05:719][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.08-14.40.05:731][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.08-14.40.05:734][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.08-14.40.05:734][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.08-14.40.05:735][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.08-14.40.05:735][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.08-14.40.05:735][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-14.40.05:735][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-14.40.05:735][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-14.40.05:735][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-14.40.05:735][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-14.40.05:735][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-14.40.05:735][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-14.40.05:735][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-14.40.05:735][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-14.40.05:735][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-14.40.05:735][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-14.40.05:735][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-14.40.05:744][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-14.40.05:744][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-14.40.05:757][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.08-14.40.05:759][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-14.40.05:761][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-14.40.05:761][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-14.40.05:761][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-14.40.05:761][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-14.40.05:761][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-14.40.05:762][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-14.40.05:762][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-14.40.05:762][  0]LogInit: FAudioDevice initialized.
+[2023.03.08-14.40.05:762][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.08-14.40.05:762][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.08-14.40.05:840][  0]LogDerivedDataCache: Saved boot cache 0.08s 94MB C:/Users/Mateusz/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.08-14.40.05:840][  0]LogInit: Texture streaming: Enabled
+[2023.03.08-14.40.05:849][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.03.08-14.40.05:852][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.08-14.40.05:852][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.08-14.40.05:854][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.08-14.40.05:867][  0]LogInit: Transaction tracking system initialized
+[2023.03.08-14.40.05:884][  0]BlueprintLog: New page: Editor Load
+[2023.03.08-14.40.05:943][  0]LocalizationService: Localization service is disabled
+[2023.03.08-14.40.05:961][  0]TimingProfiler: Initialize
+[2023.03.08-14.40.05:961][  0]TimingProfiler: OnSessionChanged
+[2023.03.08-14.40.05:961][  0]LoadingProfiler: Initialize
+[2023.03.08-14.40.05:961][  0]LoadingProfiler: OnSessionChanged
+[2023.03.08-14.40.05:961][  0]NetworkingProfiler: Initialize
+[2023.03.08-14.40.05:961][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.08-14.40.05:961][  0]MemoryProfiler: Initialize
+[2023.03.08-14.40.05:961][  0]MemoryProfiler: OnSessionChanged
+[2023.03.08-14.40.06:022][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.08-14.40.06:023][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.08-14.40.06:023][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.03.08-14.40.06:091][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.08-14.40.06:091][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.08-14.40.06:232][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/Content/' took 0.00s
+[2023.03.08-14.40.06:382][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.08-14.40.06:386][  0]SourceControl: Source control is disabled
+[2023.03.08-14.40.06:386][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.783
+[2023.03.08-14.40.06:393][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 V:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.08-14.40.06:393][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-14.40.06:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.06:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.08-14.40.06:398][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.03.08-14.40.06:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2023.03.08-14.40.06:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2023.03.08-14.40.06:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2023.03.08-14.40.06:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2023.03.08-14.40.06:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2023.03.08-14.40.06:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2023.03.08-14.40.06:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2023.03.08-14.40.06:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2023.03.08-14.40.06:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2023.03.08-14.40.06:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2023.03.08-14.40.06:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2023.03.08-14.40.06:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Collapse01.uasset"
+[2023.03.08-14.40.06:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Collapse02.uasset"
+[2023.03.08-14.40.06:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2023.03.08-14.40.06:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Explosion01.uasset"
+[2023.03.08-14.40.06:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Explosion02.uasset"
+[2023.03.08-14.40.06:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2023.03.08-14.40.06:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Fire01.uasset"
+[2023.03.08-14.40.06:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2023.03.08-14.40.06:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2023.03.08-14.40.06:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2023.03.08-14.40.06:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Light01.uasset"
+[2023.03.08-14.40.06:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2023.03.08-14.40.06:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Light02.uasset"
+[2023.03.08-14.40.06:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2023.03.08-14.40.06:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Smoke01.uasset"
+[2023.03.08-14.40.06:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2023.03.08-14.40.06:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2023.03.08-14.40.06:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2023.03.08-14.40.06:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2023.03.08-14.40.06:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2023.03.08-14.40.06:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2023.03.08-14.40.06:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2023.03.08-14.40.06:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Steam01.uasset"
+[2023.03.08-14.40.06:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2023.03.08-14.40.06:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2023.03.08-14.40.06:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2023.03.08-14.40.06:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2023.03.08-14.40.06:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2023.03.08-14.40.06:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2023.03.08-14.40.06:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2023.03.08-14.40.06:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2023.03.08-14.40.06:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2023.03.08-14.40.06:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.03.08-14.40.06:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.03.08-14.40.06:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.03.08-14.40.06:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.03.08-14.40.06:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.03.08-14.40.06:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.03.08-14.40.06:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.03.08-14.40.06:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.03.08-14.40.07:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Unreal/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2023.03.08-14.40.07:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Unreal/MyProject/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2023.03.08-14.40.07:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2023.03.08-14.40.07:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Unreal/MyProject/Content/StarterContent/Maps/Minimal_Default.umap"
+[2023.03.08-14.40.07:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2023.03.08-14.40.07:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Unreal/MyProject/Content/StarterContent/Maps/StarterMap.umap"
+[2023.03.08-14.40.07:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2023.03.08-14.40.07:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2023.03.08-14.40.07:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2023.03.08-14.40.07:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2023.03.08-14.40.07:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2023.03.08-14.40.07:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2023.03.08-14.40.07:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2023.03.08-14.40.07:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2023.03.08-14.40.07:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2023.03.08-14.40.07:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2023.03.08-14.40.07:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2023.03.08-14.40.07:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2023.03.08-14.40.07:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2023.03.08-14.40.07:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2023.03.08-14.40.07:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2023.03.08-14.40.07:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2023.03.08-14.40.07:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2023.03.08-14.40.07:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2023.03.08-14.40.07:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Glass.uasset"
+[2023.03.08-14.40.07:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2023.03.08-14.40.07:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2023.03.08-14.40.07:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2023.03.08-14.40.07:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2023.03.08-14.40.07:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2023.03.08-14.40.07:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2023.03.08-14.40.07:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2023.03.08-14.40.07:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2023.03.08-14.40.07:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2023.03.08-14.40.07:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2023.03.08-14.40.07:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2023.03.08-14.40.07:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2023.03.08-14.40.07:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2023.03.08-14.40.07:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2023.03.08-14.40.07:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2023.03.08-14.40.07:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2023.03.08-14.40.07:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2023.03.08-14.40.07:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2023.03.08-14.40.07:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2023.03.08-14.40.07:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2023.03.08-14.40.07:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2023.03.08-14.40.07:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2023.03.08-14.40.07:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2023.03.08-14.40.07:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2023.03.08-14.40.07:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2023.03.08-14.40.07:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2023.03.08-14.40.07:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/P_Explosion.uasset"
+[2023.03.08-14.40.07:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/P_Fire.uasset"
+[2023.03.08-14.40.07:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/P_Smoke.uasset"
+[2023.03.08-14.40.07:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/P_Sparks.uasset"
+[2023.03.08-14.40.07:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2023.03.08-14.40.07:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.03.08-14.40.07:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.03.08-14.40.07:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.03.08-14.40.07:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.03.08-14.40.07:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.03.08-14.40.07:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.03.08-14.40.07:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.03.08-14.40.07:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.03.08-14.40.07:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.03.08-14.40.07:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.03.08-14.40.07:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/MaterialSphere.uasset"
+[2023.03.08-14.40.07:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_Bush.uasset"
+[2023.03.08-14.40.07:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_Chair.uasset"
+[2023.03.08-14.40.07:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2023.03.08-14.40.07:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_Couch.uasset"
+[2023.03.08-14.40.07:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_Door.uasset"
+[2023.03.08-14.40.07:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2023.03.08-14.40.07:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2023.03.08-14.40.07:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2023.03.08-14.40.07:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2023.03.08-14.40.07:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2023.03.08-14.40.07:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2023.03.08-14.40.07:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2023.03.08-14.40.07:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_Rock.uasset"
+[2023.03.08-14.40.07:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_Shelf.uasset"
+[2023.03.08-14.40.07:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_Stairs.uasset"
+[2023.03.08-14.40.07:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_Statue.uasset"
+[2023.03.08-14.40.07:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_TableRound.uasset"
+[2023.03.08-14.40.07:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2023.03.08-14.40.07:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.03.08-14.40.07:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.03.08-14.40.07:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.03.08-14.40.07:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.03.08-14.40.07:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.03.08-14.40.07:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2023.03.08-14.40.07:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2023.03.08-14.40.07:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.03.08-14.40.07:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.03.08-14.40.07:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.03.08-14.40.07:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.03.08-14.40.07:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.03.08-14.40.07:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2023.03.08-14.40.07:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2023.03.08-14.40.07:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2023.03.08-14.40.07:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2023.03.08-14.40.07:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2023.03.08-14.40.07:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2023.03.08-14.40.07:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2023.03.08-14.40.07:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2023.03.08-14.40.07:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2023.03.08-14.40.07:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2023.03.08-14.40.07:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2023.03.08-14.40.07:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2023.03.08-14.40.07:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2023.03.08-14.40.07:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2023.03.08-14.40.07:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2023.03.08-14.40.07:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2023.03.08-14.40.07:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2023.03.08-14.40.07:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2023.03.08-14.40.07:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2023.03.08-14.40.07:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2023.03.08-14.40.07:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2023.03.08-14.40.08:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2023.03.08-14.40.08:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2023.03.08-14.40.08:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2023.03.08-14.40.08:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2023.03.08-14.40.08:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2023.03.08-14.40.08:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2023.03.08-14.40.08:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2023.03.08-14.40.08:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2023.03.08-14.40.08:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2023.03.08-14.40.08:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2023.03.08-14.40.08:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2023.03.08-14.40.08:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2023.03.08-14.40.08:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2023.03.08-14.40.08:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2023.03.08-14.40.08:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2023.03.08-14.40.08:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2023.03.08-14.40.08:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2023.03.08-14.40.08:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2023.03.08-14.40.08:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2023.03.08-14.40.08:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2023.03.08-14.40.08:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2023.03.08-14.40.08:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2023.03.08-14.40.08:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2023.03.08-14.40.08:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2023.03.08-14.40.08:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2023.03.08-14.40.08:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2023.03.08-14.40.08:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2023.03.08-14.40.08:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2023.03.08-14.40.08:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2023.03.08-14.40.08:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2023.03.08-14.40.08:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2023.03.08-14.40.08:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2023.03.08-14.40.08:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2023.03.08-14.40.08:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2023.03.08-14.40.08:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2023.03.08-14.40.08:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2023.03.08-14.40.08:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2023.03.08-14.40.08:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Door_M.uasset"
+[2023.03.08-14.40.08:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Door_N.uasset"
+[2023.03.08-14.40.08:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2023.03.08-14.40.08:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2023.03.08-14.40.08:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2023.03.08-14.40.08:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2023.03.08-14.40.08:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2023.03.08-14.40.08:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2023.03.08-14.40.08:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2023.03.08-14.40.08:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2023.03.08-14.40.08:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2023.03.08-14.40.08:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2023.03.08-14.40.08:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2023.03.08-14.40.09:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2023.03.08-14.40.09:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2023.03.08-14.40.09:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2023.03.08-14.40.09:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2023.03.08-14.40.09:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2023.03.08-14.40.09:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2023.03.08-14.40.09:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2023.03.08-14.40.09:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2023.03.08-14.40.09:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2023.03.08-14.40.09:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2023.03.08-14.40.09:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2023.03.08-14.40.09:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2023.03.08-14.40.09:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2023.03.08-14.40.09:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2023.03.08-14.40.09:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2023.03.08-14.40.09:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2023.03.08-14.40.09:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2023.03.08-14.40.09:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2023.03.08-14.40.09:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2023.03.08-14.40.09:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2023.03.08-14.40.09:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2023.03.08-14.40.09:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2023.03.08-14.40.09:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2023.03.08-14.40.09:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2023.03.08-14.40.09:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2023.03.08-14.40.09:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2023.03.08-14.40.09:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2023.03.08-14.40.09:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2023.03.08-14.40.09:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2023.03.08-14.40.09:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2023.03.08-14.40.09:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2023.03.08-14.40.09:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2023.03.08-14.40.09:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2023.03.08-14.40.09:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2023.03.08-14.40.09:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2023.03.08-14.40.09:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2023.03.08-14.40.09:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2023.03.08-14.40.09:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2023.03.08-14.40.09:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2023.03.08-14.40.09:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2023.03.08-14.40.09:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Water_M.uasset"
+[2023.03.08-14.40.09:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Water_N.uasset"
+[2023.03.08-14.40.09:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2023.03.08-14.40.09:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2023.03.08-14.40.09:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2023.03.08-14.40.09:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2023.03.08-14.40.09:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2023.03.08-14.40.09:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2023.03.08-14.40.10:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2023.03.08-14.40.10:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2023.03.08-14.40.10:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Unreal/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.03.08-14.40.10:074][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2023.03.08-14.40.10:080][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.03.08-14.40.10:152][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2023.03.08-14.40.10:308][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/Unreal/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2023.03.08-14.40.10:323][  0]LogSavePackage: Moving 'D:/Unreal/MyProject/Saved/Floor_400x40002E9226241B97645B854C392A289D66B.tmp' to 'D:/Unreal/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2023.03.08-14.40.10:325][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2023.03.08-14.40.10:325][  0]Cmd: MAP LOAD FILE="D:/Unreal/MyProject/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.08-14.40.10:326][  0]LightingResults: New page: Lighting Build
+[2023.03.08-14.40.10:327][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-14.40.10:327][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-14.40.10:327][  0]MapCheck: New page: Map Check
+[2023.03.08-14.40.10:327][  0]LightingResults: New page: Lighting Build
+[2023.03.08-14.40.10:331][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-14.40.10:334][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.03.08-14.40.10:538][  0]LogTexture: Display: Building textures: DeprecatedTextureFA79271141B0C16E0AB806B8FE9AB1E1 (BGRA8, 128X128)
+[2023.03.08-14.40.10:633][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2023.03.08-14.40.10:633][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.03.08-14.40.10:678][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.08-14.40.10:682][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.03.08-14.40.10:691][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.08-14.40.10:692][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.08-14.40.10:692][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,079ms to complete.
+[2023.03.08-14.40.10:692][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.367
+[2023.03.08-14.40.10:694][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.091
+[2023.03.08-14.40.10:874][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-14.40.10:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-14.40.10:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-14.40.10:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-14.40.10:949][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3822 classes and 928 folders.
+[2023.03.08-14.40.10:962][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.08-14.40.10:963][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.08-14.40.10:963][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:963][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.08-14.40.10:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.08-14.40.10:963][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.03.08-14.40.10:963][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.08-14.40.10:963][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:963][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.08-14.40.10:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.08-14.40.10:963][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.03.08-14.40.10:964][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.03.08-14.40.10:964][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:964][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.03.08-14.40.10:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.08-14.40.10:964][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:964][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-14.40.10:964][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:964][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.08-14.40.10:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.08-14.40.10:964][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.03.08-14.40.10:965][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.08-14.40.10:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.08-14.40.10:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.08-14.40.10:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:965][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.08-14.40.10:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.08-14.40.10:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.08-14.40.10:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:965][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.08-14.40.10:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.08-14.40.10:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.08-14.40.10:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:966][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.08-14.40.10:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.08-14.40.10:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.08-14.40.10:966][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:966][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.08-14.40.10:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.08-14.40.10:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.03.08-14.40.10:966][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.03.08-14.40.10:967][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.08-14.40.10:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:967][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.08-14.40.10:967][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:967][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.08-14.40.10:967][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.03.08-14.40.10:967][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.08-14.40.10:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:967][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.08-14.40.10:967][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:967][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.08-14.40.10:967][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:968][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.08-14.40.10:968][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.08-14.40.10:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.08-14.40.10:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:968][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-14.40.10:968][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.08-14.40.10:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.08-14.40.10:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:969][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.08-14.40.10:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.08-14.40.10:969][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:969][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.08-14.40.10:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:969][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.08-14.40.10:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.08-14.40.10:969][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:969][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.08-14.40.10:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:969][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.08-14.40.10:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.08-14.40.10:969][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:969][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.08-14.40.10:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:970][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.08-14.40.10:970][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:970][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.08-14.40.10:970][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:970][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.08-14.40.10:970][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:970][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.08-14.40.10:970][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:970][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.08-14.40.10:970][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:970][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.08-14.40.10:970][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.08-14.40.10:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.08-14.40.10:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.08-14.40.10:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.08-14.40.10:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.08-14.40.10:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.08-14.40.10:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.08-14.40.10:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.08-14.40.10:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.03.08-14.40.10:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.08-14.40.10:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.03.08-14.40.10:972][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.08-14.40.10:972][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:972][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.08-14.40.10:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.08-14.40.10:972][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.10:972][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.08-14.40.10:972][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:972][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.08-14.40.10:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.08-14.40.10:972][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.03.08-14.40.10:973][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.08-14.40.10:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-14.40.10:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.08-14.40.10:973][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-14.40.10:973][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:V:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.08-14.40.10:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-14.40.11:003][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.08-14.40.11:011][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.03.08-14.40.11:106][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.08-14.40.11:114][  0]LogSlate: Took 0.006106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.08-14.40.11:115][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.08-14.40.11:215][  0]LogRenderer: Reallocating scene render targets to support 1208x844 Format 10 NumSamples 1 (Frame:1).
+[2023.03.08-14.40.11:317][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.03.08-14.40.11:317][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2023.03.08-14.40.11:317][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2023.03.08-14.40.11:317][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.03.08-14.40.11:317][  0]LogLoad: (Engine Initialization) Total time: 10.71 seconds
+[2023.03.08-14.40.11:317][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.08-14.40.11:335][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2023.03.08-14.40.11:335][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.03.08-14.40.11:355][  0]LogAssetRegistry: Asset discovery search completed in 8.1487 seconds
+[2023.03.08-14.40.11:359][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.03.08-14.40.11:387][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.08-14.40.16:211][538]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.08-14.40.59:937][558]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.08-14.40.59:955][558]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.08-14.41.09:875][749]LogContentBrowser: Attempting asset rename: NewFolder -> New_Project
+[2023.03.08-14.41.09:876][749]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.08-14.42.00:468][ 97]LogSlate: Window 'New Plugin' being destroyed
+[2023.03.08-14.42.00:470][ 97]LogSlate: Window 'New Plugin' being destroyed
+[2023.03.08-14.42.01:220][187]LogSlate: Window 'Plugins' being destroyed
+[2023.03.08-14.42.01:223][187]LogSlate: Window 'Plugins' being destroyed
+[2023.03.08-14.42.01:223][187]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.03.08-14.42.28:941][534]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.08-14.42.28:978][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownCharacter.TopDownCharacter_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2023.03.08-14.42.28:978][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownCharacter.SKEL_TopDownCharacter_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2023.03.08-14.42.28:978][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownCharacter.SKEL_TopDownCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2023.03.08-14.42.28:978][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownCharacter.SKEL_TopDownCharacter_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2023.03.08-14.42.28:979][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownCharacter.SKEL_TopDownCharacter_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2023.03.08-14.42.28:979][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownCharacter.TopDownCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2023.03.08-14.42.28:979][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownCharacter.TopDownCharacter_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2023.03.08-14.42.28:981][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownController.TopDownController_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2023.03.08-14.42.28:981][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownController.SKEL_TopDownController_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2023.03.08-14.42.28:981][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownController.SKEL_TopDownController_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2023.03.08-14.42.28:981][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownController.SKEL_TopDownController_C:MoveToHitLocation' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2023.03.08-14.42.28:981][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownController.SKEL_TopDownController_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2023.03.08-14.42.28:981][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownController.TopDownController_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2023.03.08-14.42.28:981][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2023.03.08-14.42.28:981][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownGameMode.TopDownGameMode_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownGameMode.PackageMetaData'
+[2023.03.08-14.42.28:981][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownGameMode.SKEL_TopDownGameMode_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownGameMode.PackageMetaData'
+[2023.03.08-14.42.28:981][534]LogMetaData: Removing '/Game/New_Project/Blueprints/TopDownGameMode.SKEL_TopDownGameMode_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownGameMode.PackageMetaData'
+[2023.03.08-14.42.29:009][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/New_Project/Blueprints/M_Cursor_Decal" FILE="D:/Unreal/MyProject/Content/New_Project/Blueprints/M_Cursor_Decal.uasset" SILENT=true
+[2023.03.08-14.42.29:015][534]LogSavePackage: Moving 'D:/Unreal/MyProject/Saved/M_Cursor_Decal5377C6EB4474CBB080673BBC6739272A.tmp' to 'D:/Unreal/MyProject/Content/New_Project/Blueprints/M_Cursor_Decal.uasset'
+[2023.03.08-14.42.29:037][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/New_Project/Blueprints/TopDownCharacter" FILE="D:/Unreal/MyProject/Content/New_Project/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2023.03.08-14.42.29:074][534]LogSavePackage: Moving 'D:/Unreal/MyProject/Saved/TopDownCharacter1F6204724D8E18BB202B548EC5C81E91.tmp' to 'D:/Unreal/MyProject/Content/New_Project/Blueprints/TopDownCharacter.uasset'
+[2023.03.08-14.42.29:075][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="D:/Unreal/MyProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2023.03.08-14.42.29:075][534]LogSavePackage: Moving 'D:/Unreal/MyProject/Saved/TopDownCharacter220BCE8C4C34C05A4D9A43A6EE35EDF0.tmp' to 'D:/Unreal/MyProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2023.03.08-14.42.29:076][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/New_Project/Blueprints/TopDownController" FILE="D:/Unreal/MyProject/Content/New_Project/Blueprints/TopDownController.uasset" SILENT=true
+[2023.03.08-14.42.29:090][534]LogSavePackage: Moving 'D:/Unreal/MyProject/Saved/TopDownController0C903BF24DFC4273E35E20880C28D4B9.tmp' to 'D:/Unreal/MyProject/Content/New_Project/Blueprints/TopDownController.uasset'
+[2023.03.08-14.42.29:090][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/New_Project/Blueprints/TopDownGameMode" FILE="D:/Unreal/MyProject/Content/New_Project/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2023.03.08-14.42.29:092][534]LogSavePackage: Moving 'D:/Unreal/MyProject/Saved/TopDownGameMode9D7E7F2E4A6D24881F8D1187F461E6EF.tmp' to 'D:/Unreal/MyProject/Content/New_Project/Blueprints/TopDownGameMode.uasset'
+[2023.03.08-14.42.29:092][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownGameMode" FILE="D:/Unreal/MyProject/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2023.03.08-14.42.29:093][534]LogSavePackage: Moving 'D:/Unreal/MyProject/Saved/TopDownGameModeDE4CC22C48F1ED714E2DD0999DAF7101.tmp' to 'D:/Unreal/MyProject/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2023.03.08-14.42.29:136][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.08-14.42.29:142][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.08-14.42.29:150][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.08-14.42.29:154][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.08-14.42.29:187][534]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.08-14.42.29:187][534]LogContentValidation: Display: Validating Material /Game/New_Project/Blueprints/M_Cursor_Decal.M_Cursor_Decal
+[2023.03.08-14.42.29:187][534]LogContentValidation: Display: Validating Blueprint /Game/New_Project/Blueprints/TopDownCharacter.TopDownCharacter
+[2023.03.08-14.42.29:187][534]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2023.03.08-14.42.29:187][534]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownGameMode.Default__TopDownGameMode_C
+[2023.03.08-14.42.29:187][534]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2023.03.08-14.42.29:187][534]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2023.03.08-14.42.29:187][534]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownCharacter.Default__TopDownCharacter_C
+[2023.03.08-14.42.29:187][534]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2023.03.08-14.42.29:187][534]LogContentValidation: Display: Validating Blueprint /Game/New_Project/Blueprints/TopDownController.TopDownController
+[2023.03.08-14.42.29:187][534]LogContentValidation: Display: Validating Blueprint /Game/New_Project/Blueprints/TopDownGameMode.TopDownGameMode
+[2023.03.08-14.42.45:333][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/New_Project/Blueprints/M_Cursor_Decal" FILE="D:/Unreal/MyProject/Content/New_Project/Blueprints/M_Cursor_Decal.uasset" SILENT=true
+[2023.03.08-14.42.45:336][103]LogSavePackage: Moving 'D:/Unreal/MyProject/Saved/M_Cursor_DecalF658D985417FF06F962567A944861200.tmp' to 'D:/Unreal/MyProject/Content/New_Project/Blueprints/M_Cursor_Decal.uasset'
+[2023.03.08-14.42.45:337][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/New_Project/Blueprints/TopDownCharacter" FILE="D:/Unreal/MyProject/Content/New_Project/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2023.03.08-14.42.45:342][103]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.03.08-14.42.45:447][103]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.104 s
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: === Handled ensure: ===
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: 
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: Found circular redirect from /Game/New_Project/Blueprints/TopDownCharacter.TopDownCharacter to /Game/New_Project/Blueprints/TopDownCharacter.TopDownCharacter! Returning None instead
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: Stack: 
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb240ff53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb1f83e30 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb2321f66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb233bd0e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb1ff0877 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb145db82 UE4Editor-Core.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb2333823 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb2238a69 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb2066fa6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb22dc457 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb22dc779 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb206a1f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb2067c3c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb20670be UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb22dc457 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb227cbb6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb22dc779 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb206a1f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb2067c3c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb2226d74 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb2223470 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb2222edb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcac00d230 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcac00ce24 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb22bf672 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb22e058b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb22c661c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcafd5a6ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcafd5b1be UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-14.42.45:447][103]LogOutputDevice: Error: [Callstack] 0x00007ffcafd9555e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcafd91e7c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb05f2917 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb00c0203 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb00beb1d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb00d4e50 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc881171f7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc880b5d1a UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc88131112 UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc880fcb62 UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc880fd2ce UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc431e28d3 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc431e2ba6 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc431a2710 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc8860aadf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc8863ed1b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffc8869373d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb5591b55 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb5598370 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb556c587 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb560a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb562280e UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb5599ae5 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb547421e UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb54ee104 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb54d7097 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcb54c9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcbc13c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcbc1292b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcbc13e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcbc124410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcf439e7e8 USER32.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcf439e229 USER32.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcbc13fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ff7119a7621 UE4Editor.exe!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ff7119c0fcc UE4Editor.exe!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ff7119c10ba UE4Editor.exe!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ff7119c40dd UE4Editor.exe!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ff7119d5984 UE4Editor.exe!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ff7119d853a UE4Editor.exe!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcf4887614 KERNEL32.DLL!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: [Callstack] 0x00007ffcf54826a1 ntdll.dll!UnknownFunction []
+[2023.03.08-14.42.45:448][103]LogOutputDevice: Error: 
